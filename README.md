@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <p>.</p>
+  <p align="center">.</p>
 </div>
  
  
