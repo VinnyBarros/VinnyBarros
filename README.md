@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <div>
   <h1 align="center">Olá, sou o Vinicius Barros 👋</h1>
 </div>
