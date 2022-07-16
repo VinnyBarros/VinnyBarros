@@ -2,9 +2,16 @@
 
 <div align="center"> <img src="./github-header-image.png"> </div>
 
+<br>
+
+<p align="center">
+Iniciando no mundo da programação como estudante de tecnologia da informação e comunicação no SERRATEC. 
+</p>
+<p align="center">Seja bem-vindo ao meu perfil!</p>
 
  
  ##
+ <br>
  
 <div align="center">
   <a href="https://github.com/VinnyBarros">
