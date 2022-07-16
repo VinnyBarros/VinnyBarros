@@ -5,9 +5,8 @@
 <br>
 
 <p align="center">
-Iniciando no mundo da programação como estudante de tecnologia da informação e comunicação no SERRATEC. 
-</p>
-<p align="center">Seja bem-vindo ao meu perfil!</p>
+Iniciando no mundo da programação como estudante de tecnologia da informação e comunicação no SERRATEC. Curioso fullstack, interessado nas principais linguagens front-end e back-end e sempre procurando me desenvolver em ambos os lados.</p>
+<p align="center">Obrigado por visitar o meu perfil. Seja bem-vindo!</p>
 
  
  ##
