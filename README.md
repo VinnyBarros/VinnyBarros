@@ -1,7 +1,10 @@
+<h1 align="center">Olá, sou o <strong>Vinny Barros</strong>.</h1>
+<h4 align="center">Seja bem-vindo(a) ao meu perfil! 😄</h4>
+
+##
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
- <h2 align="left">Olá, sou o <strong>Vinny Barros</strong>.</h2>
  
 <p align="left"> 
  Iniciando no mundo da programação como estudante de tecnologia da informação e comunicação no SERRATEC. Curioso fullstack, interessado nas principais linguagens  front-end e back-end e sempre procurando me desenvolver em ambos os lados.
@@ -35,9 +38,10 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicius.barros23/"/></a>
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vinnnybarros/"/></a>
-</p><br>
+</p><br><br>
 
-<br><h4 align="center">Seja bem-vindo(a) ao meu perfil! 😄</h4><br>
+##
+<br>
 
 <div align="center">
   <a href="https://github.com/VinnyBarros">
