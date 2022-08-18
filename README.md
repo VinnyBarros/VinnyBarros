@@ -7,7 +7,7 @@
 
  
 <p align="left"> 
- Iniciando no mundo da programação como estudante de tecnologia da informação e comunicação no SERRATEC. Curioso fullstack, interessado nas principais linguagens  front-end e back-end e sempre procurando me desenvolver em ambos os lados.
+  Iniciando no mundo da programação como Residente de TIC/Software do SERRATEC (Parque tecnológico da Região Serrana RJ). Agora como desenvolvedor Full Stack, interessado nas principais linguagens front-end e back-end e procurando sempre me aprimorar em ambos os lados.
 </p>
 
 <p align="left">
